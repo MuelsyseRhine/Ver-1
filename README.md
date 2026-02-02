@@ -1,3 +1,3 @@
 # MuelsyseRhine
-# 展示图片
-<img src="./images/heatmap_100x100.png" alt="MuelsyseRhine Logo">
+# 搜集资料
+<img src="./images/fNIRS.png" alt="MuelsyseRhine Logo">
